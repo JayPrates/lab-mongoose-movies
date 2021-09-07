@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: 15px;
+}
+
+.celebText {
+  font-size: 20px;
+}
+.celebText a{
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.moviesText {
+  font-size: 20px;
+}
+
+.moviesText a{
+  text-decoration: none;
+}
+
+.wtf div{
+  text-decoration: none;
+}
+
+.row h3{
+  width: 350px;
+}
